@@ -4,7 +4,11 @@
   "description": "Extension to facilitate login at Unidavi",
   "version": "1.0",
   "action": {
-    "default_popup": "/popup/popup.html",
-    "default_icon": "/images/logo.png"
+    "default_popup": "popup/popup.html",
+    "default_icon": "images/logo-16.png"
+  },
+  "icons": {
+    "16": "images/icon-16.png",
+    "128": "images/icon-128.png"
   }
 }
