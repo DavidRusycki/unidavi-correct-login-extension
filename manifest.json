@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Unidavi Login fixer",
+  "description": "Extension to facilitate login at Unidavi",
+  "version": "1.0",
+  "action": {
+    "default_popup": "/popup/popup.html",
+    "default_icon": "/images/logo.png"
+  }
+}
