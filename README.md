@@ -1,3 +1,8 @@
 # unidavi-correct-login-extension
 
-Extensão para navegadores WEB, com objetivo de facilitar o Login da Unidavi.
+Extension for WEB browsers, in order to facilitate the Unidavi Login.
+
+## How to install 
+
+to install open the [chrome extensions store](https://chrome.google.com/webstore/category/extensions?hl=pt-BR) and install. It's ready to use, that's all.
+
